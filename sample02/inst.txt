@@ -1,0 +1,7 @@
+実行:java com.se.Main
+
+コンパイル：javac -d . Main.java
+
+パッケージ名に対応したディレクトリを作成してくれる
+
+

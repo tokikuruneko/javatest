@@ -1,0 +1,8 @@
+//ƒRƒ“ƒpƒCƒ‹
+javac com/se/ren/Foo.java
+javac com/se/Main.java
+java com.se.Main
+
+
+
+

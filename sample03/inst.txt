@@ -1,0 +1,13 @@
+//コンパイル
+javac com/se/ren/Foo.java
+javac com/se/Main.java
+java com.se.Main
+
+//コンパイル2
+javac -d . Foo.java
+javac -d . Main.java
+java com.se.Main
+
+
+
+
