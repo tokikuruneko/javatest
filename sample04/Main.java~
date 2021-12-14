@@ -40,7 +40,7 @@ public class Main{
 		int x10 = 0x5_2;		//OK
 		int x11 = 0_52;			//OK
 
-		System.out.println(x5 + " " + x7 + " " + x10 + " " + x11);
+		System.out.println(x5 + " " + x7);
 
 	}
 }
